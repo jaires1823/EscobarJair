@@ -34,23 +34,19 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fisco-Misional Sagado Corazon donde me gradue en el año 1989, de la especialidad de Físico-Matemático, apenas me gradue viaje a Guayaquil para seguir mis estudios universitarios en la Escuela Superior Politécnica del Litoral donde seguí la carrera de Ingeniería en Computación, gracias a la demanda que exitía en este tiempo de este tipo de profesionales comencé a trabajar mientra estaba estudiando, prestando mis servicios profesionales en empresas como Poligráfica, El telegráfo, Intecorsorcio; mientras trabajaba en esta última logré obtener mi título de Ingeniero de Computación.</p>
-                   <p class="eys-parrafo">Ya con el título en la mano decidi regrasar a mi tierra Esmeraldas, con la finalidad de aplicar los conocimiento y habilidades obtenida por lo que forme la empresa EDUCAYSOFT, pero como los ingreso no fueron suficiente entre a trabajar al colegio Eloy Alfaro y posteiormente a la Universidad Técnica Luis Vargas Torres donde actualmente laboró.</p>
-<p class="eys-parrafo"> Por las exigencias de la universidad, ingresar a la maestria de docencia y desarrollo del curriculo, de la cual de grauduo obteniendo el título de Magister, pero despues realice otra maestría en la POLITECNICA, de Ciencias de la Computación.</p>
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Particular Luz Y Libertad donde me gradue en el año 2016, de la especialidad de Informatica, 2 años despues de graduarme  me inscribi para poder rendir el examen SENESCYT y poder ingresar a estudiar Ingenieria en la carrera de Tecnologias de la Información,en la Universidad Luis Vargas Torres De Esmeraldas actualmente me encuentro cursando el 7mo ciclo de la carrera espero seguir con las mismas ancias cuando ingrese a estudiar y poder cumplir mi meta que es graduarme como Ingeniero.</p>
+                   <p class="eys-parrafo">Ya cuando tenga mi título en la mano quisiera seguir aprendiendo mucho mas y seguir estudiando para poder sacar una maestria en alguna de las ramas donde mejor me desenvuelva y así ya poner mis conocimientos en practica en un ambito laboral.</p>
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
-    
 
-
-                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje Basic, utilizando el computador de la espol, luego programe c++, donde realiza algunos programa que leina el entregas del puerto serial y enviaban señales a un motor. Profesionalmente comenza programando en Informix un lenguaje de programación para el sistema Unix, utilizando uan versio de foxpro para unix, luego cuando aparecio la interface gráfica programe en foxpro y seguidamente visual foro.</p> 
-                   <p  class="eys-parrafo">Hoy en día creso sisemas web combinando HTML, CSS, JavaScrip y PHP; tambien aplicaciones para dispositivo androi para lo cual utilizo el framework android Studio, el cual utiliza el lenguaje de JAVA.</p>
+                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje C++, utilizando mi telefono movil ya que no contaba con una computadora en ese entonces,luego programe en c#,donde realizamos algunos proyectos grupales el cual permitia ingresar los datos de un profesor o autiridad de la UTELVT.</p> 
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Soy amante a la lectura, así que en los ratos libres me encanta actualizar mis conocimientos leyendo manuales de los leguajes de progración que namejo, y tambien muchos noticias de las ultimas tendencias en tecnología.</p>
+                   <p   class="eys-parrafo">Soy amante a los videojuegos,en mi tiempo libre aprovecho y juego de 1 a 2 horas en mi play 4,tambien me gusta jugar fútbol.</p>
        
 
                    
