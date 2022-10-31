@@ -24,9 +24,9 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy Jair Escobar, ingeniero esmeraldeño que labora desde hace 10 años en la Universidad Tecnica Luis Vargas Torres, e impartido diferentes cátedras en la carrera de Tecnología de la Información entre las cuales esta Ingeniería de Software, Programación Web, Proyectos informáticos entre otras; pero la cátedra en la que mejor me desempeño es la de Fundamentos de programación que se dicta en el primer ciclo de la carrera de Tecnología de la Información. </p>
-                   <p class="eys-parrafo">Desde mís estudios secundarios me he apacionado por las ciencias y la tecnología, quieza sería  por esta capacidad que tiene estas dos áres del conocimiento de solucionar muchos probemas de la sociedad; es por eso que desde que termine mis estudios de ingeniería en la ESPOL, me he dedicado a la programación de computadoras. </p>
-<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
+                   <p class="eys-parrafo">Hola, yo soy Jair Escobar,tengo 24 añosde edad y soy estudiante del 7mo ciclo de la carrera de Tecnologias de la informacion y si Dios lo permite un futuro ingeniero esmeraldeño que estudia en la Universidad Luis Vargas Torres de la ciudad de Esmeraldas. </p>
+                   <p class="eys-parrafo">Desde mís estudios secundarios me he apacionado por la tecnología, quiza sería  por esta capacidad que tiene esta área del conocimiento de solucionar muchos probemas de la sociedad; es por eso que desde que termine mis estudios de ingeniería en la UTELVT, me he dedicare a la programación de computadoras. </p>
+<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el primer ciclo de la universidad fue el C++.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
