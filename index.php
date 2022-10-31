@@ -24,7 +24,7 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy Jair Escobar,tengo 24 añosde edad y soy estudiante del 7mo ciclo de la carrera de Tecnologias de la informacion y si Dios lo permite un futuro ingeniero esmeraldeño que estudia en la Universidad Luis Vargas Torres de la ciudad de Esmeraldas. </p>
+                   <p class="eys-parrafo">Hola, yo soy Jair Escobar, tengo 24 años de edad y soy estudiante del 7mo ciclo de la carrera de Tecnologias de la informacion y si Dios lo permite un futuro ingeniero esmeraldeño que estudia en la Universidad Luis Vargas Torres de la ciudad de Esmeraldas. </p>
                    <p class="eys-parrafo">Desde mís estudios secundarios me he apacionado por la tecnología, quiza sería  por esta capacidad que tiene esta área del conocimiento de solucionar muchos probemas de la sociedad; es por eso que desde que termine mis estudios de ingeniería en la UTELVT, me he dedicare a la programación de computadoras. </p>
 <p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el primer ciclo de la universidad fue el C++.</p>
 
